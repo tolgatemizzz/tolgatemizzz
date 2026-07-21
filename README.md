@@ -1,3 +1,8 @@
+
+
+
+
+<!--
 <h1 align="center">Hi 👋, I'm Tolga Temiz</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 
@@ -25,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolgatemizzz&show_icons=true&locale=en" alt="tolgatemizzz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tolgatemizzz&" alt="tolgatemizzz" /></p>
+
+
+-->
