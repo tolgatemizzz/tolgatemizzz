@@ -123,7 +123,7 @@
 <rect x="677" y="157" width="3" height="18" fill="#22D3EE"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.05s" repeatCount="indefinite"/></rect>
 </g>
 <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8361;0.8371;0.9917;0.9927;1" dur="18s" repeatCount="indefinite"/>
-<g clip-path="url(#pl5)"><text x="500" y="172" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="18" font-weight="600" fill="#F8FAFC">AI Integration Engineer</text></g>
+<g clip-path="url(#pl5)"><text x="500" y="172" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="18" font-weight="600" fill="#F8FAFC">Integration Engineer</text></g>
 <rect x="752" y="157" width="3" height="18" fill="#22D3EE"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.05s" repeatCount="indefinite"/></rect>
 </g>
 <rect x="500" y="190" width="628" height="1.5" fill="url(#accent)" opacity="0.5" rx="1"/>
@@ -135,7 +135,7 @@
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.08s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" dur="0.5s" begin="1.08s" fill="freeze" additive="sum"/>
 <g transform="translate(500,231) scale(0.95)" fill="none" stroke="url(#accent)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3.4a4.6 4.6 0 1 0 0 9.2 4.6 4.6 0 0 0 0-9.2Zm0 7a2.4 2.4 0 1 1 0-4.8 2.4 2.4 0 0 1 0 4.8ZM8 .8v1.8M8 13.4v1.8M.8 8h1.8M13.4 8h1.8"/></g>
 <text x="526" y="244" font-size="13.5" fill="#94A3B8" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace">Focus</text>
-<text x="650" y="244" font-size="14" fill="#F8FAFC" font-weight="500">Multi-tenant ERP SaaS</text>
+<text x="650" y="244" font-size="14" fill="#F8FAFC" font-weight="500">ERP SaaS</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.26s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" dur="0.5s" begin="1.26s" fill="freeze" additive="sum"/>
 <g transform="translate(500,259) scale(0.95)" fill="none" stroke="url(#accent)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M8 1.8 1.4 5 8 8.2 14.6 5 8 1.8Zm6.6 6.9L8 11.9 1.4 8.7M14.6 11.4 8 14.6 1.4 11.4"/></g>
@@ -150,7 +150,7 @@
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.62s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" dur="0.5s" begin="1.62s" fill="freeze" additive="sum"/>
 <g transform="translate(500,315) scale(0.95)" fill="none" stroke="url(#accent)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M8 1.8l1.5 3.7L13.2 7l-3.7 1.5L8 12.2 6.5 8.5 2.8 7l3.7-1.5L8 1.8Zm4.4 9.2.6 1.5 1.5.6-1.5.6-.6 1.5-.6-1.5-1.5-.6 1.5-.6.6-1.5Z"/></g>
 <text x="526" y="328" font-size="13.5" fill="#94A3B8" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace">Building</text>
-<text x="650" y="328" font-size="14" fill="#F8FAFC" font-weight="500">POS + AI e-Fatura OCR</text>
+<text x="650" y="328" font-size="14" fill="#F8FAFC" font-weight="500">ERP + POS</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.45s" begin="1.40s" fill="freeze"/><text x="500" y="397" font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#94A3B8">BACKEND</text></g>
 <g class="pill" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.50s" fill="freeze"/><rect x="608" y="380" width="75" height="26" rx="13" fill="rgba(255,255,255,0.04)" stroke="url(#accent)" stroke-width="1"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3.0s" repeatCount="indefinite"/></rect><text x="646" y="397" text-anchor="middle" font-size="12.5" fill="#E2E8F0" font-weight="500">.NET 10</text></g>
