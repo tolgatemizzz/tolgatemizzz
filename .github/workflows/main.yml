@@ -24,6 +24,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif
+            dist/contributions-dark.gif?color_snake=#C8F751&color_dots=#22251C,#354425,#5D7B2C,#7E9B3D,#AFCD5A&color_background=#131416
+            dist/contributions-light.gif?color_snake=#506600&color_dots=#DDE0D8,#E4EDC9,#CDDF99,#9FBF55,#6D8A28&color_background=#F4F5F1
 
       # dist içeriğini output branch'ine yayınla (GitHub Pages)
       - name: Deploy to output branch
