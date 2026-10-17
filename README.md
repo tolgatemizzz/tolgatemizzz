@@ -27,6 +27,18 @@ I’m **Tolga**, a full-stack developer based in **Istanbul, Türkiye**. At [Pak
 
 ---
 
+### Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tolgatemizzz/tolgatemizzz/output/contributions-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tolgatemizzz/tolgatemizzz/output/contributions-light.gif">
+  <img alt="Animated snake tracing Tolga Temiz’s GitHub contribution activity." src="https://raw.githubusercontent.com/tolgatemizzz/tolgatemizzz/output/contributions-light.gif" width="100%">
+</picture>
+
+[View contribution activity →](https://github.com/tolgatemizzz#js-contribution-activity)
+
+---
+
 ### What I’m building at Pakkod
 
 <a href="https://pakkod.com/urunler/re10">
