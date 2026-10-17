@@ -1,13 +1,7 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px) and (prefers-color-scheme: dark)" srcset="./dark-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px) and (prefers-color-scheme: light)" srcset="./light-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="./light.svg">
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/motion/dark-mobile.gif">
-  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/motion/light-mobile.gif">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/motion/dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./assets/motion/light.gif">
-  <img alt="Tolga Temiz — Full-stack developer at Pakkod, based in Istanbul. .NET, React and Flutter." src="./light.svg" width="100%">
+  <img alt="Tolga Temiz — Full-stack developer at Pakkod, based in Istanbul. .NET, React and Flutter." src="./assets/motion/light.gif" width="100%">
 </picture>
 
 <br>
@@ -37,15 +31,9 @@ I’m **Tolga**, a full-stack developer based in **Istanbul, Türkiye**. At [Pak
 
 <a href="https://pakkod.com/urunler/re10">
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/re10-dark-mobile.svg">
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/re10-light-mobile.svg">
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/re10-dark.svg">
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="./assets/re10-light.svg">
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/motion/re10-dark-mobile.gif">
-    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/motion/re10-light-mobile.gif">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/motion/re10-dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="./assets/motion/re10-light.gif">
-    <img alt="re10 ERP + POS — Retail, from checkout to back office. Explore re10." src="./assets/re10-light.svg" width="100%">
+    <img alt="re10 ERP + POS — Retail, from checkout to back office. Explore re10." src="./assets/motion/re10-light.gif" width="100%">
   </picture>
 </a>
 
@@ -57,15 +45,9 @@ I’m **Tolga**, a full-stack developer based in **Istanbul, Türkiye**. At [Pak
 
 <a href="https://pakkod.com/urunler/atlas">
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/atlas-dark-mobile.svg">
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/atlas-light-mobile.svg">
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/atlas-dark.svg">
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="./assets/atlas-light.svg">
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/motion/atlas-dark-mobile.gif">
-    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/motion/atlas-light-mobile.gif">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/motion/atlas-dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="./assets/motion/atlas-light.gif">
-    <img alt="ATLAS Platform — People, products and stores. Connected. Explore ATLAS." src="./assets/atlas-light.svg" width="100%">
+    <img alt="ATLAS Platform — People, products and stores. Connected. Explore ATLAS." src="./assets/motion/atlas-light.gif" width="100%">
   </picture>
 </a>
 
